@@ -54,6 +54,7 @@ covid19 <- read_csv("https://raw.githubusercontent.com/nytimes/covid-19-data/mas
 ## Put your homework on GitHub!
 
 [weekly_exerice_06_md](https://github.com/mmohame3/STAT112_weekly_exercise_06/blob/main/06_exercises.md)
+[shinyapp](https://www.shinyapps.io/admin/#/application/3732753)
 
 
 ## Instructions
