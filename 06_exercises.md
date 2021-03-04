@@ -50,9 +50,8 @@ covid19 <- read_csv("https://raw.githubusercontent.com/nytimes/covid-19-data/mas
 
 ## Put your homework on GitHub!
 
-Go [here](https://github.com/llendway/github_for_collaboration/blob/master/github_for_collaboration.md) or to previous homework to remind yourself how to get set up. 
+[weekly_exerice_06_md](https://github.com/mmohame3/STAT112_weekly_exercise_06/blob/main/06_exercises.md)
 
-Once your repository is created, you should always open your **project** rather than just opening an .Rmd file. You can do that by either clicking on the .Rproj file in your repository folder on your computer. Or, by going to the upper right hand corner in R Studio and clicking the arrow next to where it says Project: (None). You should see your project come up in that list if you've used it recently. You could also go to File --> Open Project and navigate to your .Rproj file. 
 
 ## Instructions
 
@@ -142,7 +141,7 @@ garden_harvest_gt
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#vgfmovvvyd .gt_table {
+#cugqldxmfj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -167,7 +166,7 @@ garden_harvest_gt
   border-left-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_heading {
+#cugqldxmfj .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -179,7 +178,7 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_title {
+#cugqldxmfj .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -189,7 +188,7 @@ garden_harvest_gt
   border-bottom-width: 0;
 }
 
-#vgfmovvvyd .gt_subtitle {
+#cugqldxmfj .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -199,13 +198,13 @@ garden_harvest_gt
   border-top-width: 0;
 }
 
-#vgfmovvvyd .gt_bottom_border {
+#cugqldxmfj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_col_headings {
+#cugqldxmfj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -220,7 +219,7 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_col_heading {
+#cugqldxmfj .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -240,7 +239,7 @@ garden_harvest_gt
   overflow-x: hidden;
 }
 
-#vgfmovvvyd .gt_column_spanner_outer {
+#cugqldxmfj .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -252,15 +251,15 @@ garden_harvest_gt
   padding-right: 4px;
 }
 
-#vgfmovvvyd .gt_column_spanner_outer:first-child {
+#cugqldxmfj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#vgfmovvvyd .gt_column_spanner_outer:last-child {
+#cugqldxmfj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#vgfmovvvyd .gt_column_spanner {
+#cugqldxmfj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -272,7 +271,7 @@ garden_harvest_gt
   width: 100%;
 }
 
-#vgfmovvvyd .gt_group_heading {
+#cugqldxmfj .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -294,7 +293,7 @@ garden_harvest_gt
   vertical-align: middle;
 }
 
-#vgfmovvvyd .gt_empty_group_heading {
+#cugqldxmfj .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -309,15 +308,15 @@ garden_harvest_gt
   vertical-align: middle;
 }
 
-#vgfmovvvyd .gt_from_md > :first-child {
+#cugqldxmfj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#vgfmovvvyd .gt_from_md > :last-child {
+#cugqldxmfj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#vgfmovvvyd .gt_row {
+#cugqldxmfj .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -336,7 +335,7 @@ garden_harvest_gt
   overflow-x: hidden;
 }
 
-#vgfmovvvyd .gt_stub {
+#cugqldxmfj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -348,7 +347,7 @@ garden_harvest_gt
   padding-left: 12px;
 }
 
-#vgfmovvvyd .gt_summary_row {
+#cugqldxmfj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -358,7 +357,7 @@ garden_harvest_gt
   padding-right: 5px;
 }
 
-#vgfmovvvyd .gt_first_summary_row {
+#cugqldxmfj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -368,7 +367,7 @@ garden_harvest_gt
   border-top-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_grand_summary_row {
+#cugqldxmfj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -378,7 +377,7 @@ garden_harvest_gt
   padding-right: 5px;
 }
 
-#vgfmovvvyd .gt_first_grand_summary_row {
+#cugqldxmfj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -388,11 +387,11 @@ garden_harvest_gt
   border-top-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_striped {
+#cugqldxmfj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#vgfmovvvyd .gt_table_body {
+#cugqldxmfj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -401,7 +400,7 @@ garden_harvest_gt
   border-bottom-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_footnotes {
+#cugqldxmfj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -415,13 +414,13 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_footnote {
+#cugqldxmfj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#vgfmovvvyd .gt_sourcenotes {
+#cugqldxmfj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -435,46 +434,46 @@ garden_harvest_gt
   border-right-color: #D3D3D3;
 }
 
-#vgfmovvvyd .gt_sourcenote {
+#cugqldxmfj .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#vgfmovvvyd .gt_left {
+#cugqldxmfj .gt_left {
   text-align: left;
 }
 
-#vgfmovvvyd .gt_center {
+#cugqldxmfj .gt_center {
   text-align: center;
 }
 
-#vgfmovvvyd .gt_right {
+#cugqldxmfj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#vgfmovvvyd .gt_font_normal {
+#cugqldxmfj .gt_font_normal {
   font-weight: normal;
 }
 
-#vgfmovvvyd .gt_font_bold {
+#cugqldxmfj .gt_font_bold {
   font-weight: bold;
 }
 
-#vgfmovvvyd .gt_font_italic {
+#cugqldxmfj .gt_font_italic {
   font-style: italic;
 }
 
-#vgfmovvvyd .gt_super {
+#cugqldxmfj .gt_super {
   font-size: 65%;
 }
 
-#vgfmovvvyd .gt_footnote_marks {
+#cugqldxmfj .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="vgfmovvvyd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+<div id="cugqldxmfj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
   <thead class="gt_header">
     <tr>
       <th colspan="5" class="gt_heading gt_title gt_font_normal" style><strong>Dataset from Lisa's garden harvest</strong></th>
@@ -5970,6 +5969,5 @@ garden_harvest_gt
 </table></div><!--/html_preserve-->
   
 
-  
 
 **DID YOU REMEMBER TO UNCOMMENT THE OPTIONS AT THE TOP?**
